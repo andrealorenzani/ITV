@@ -4,7 +4,7 @@ import name.lorenzani.andrea.itv.genericreader.{SqlliteReader, TextReader}
 import name.lorenzani.andrea.itv.utils.Config
 
 object PricesRetrieverFactory {
-  val getPricesRetriever = getTextRetriever
+  val getPricesRetriever = getSqliteRetriever
 
   private def getTextRetriever = {
     val reader = new TextReader(Config.textfile)
