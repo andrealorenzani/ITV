@@ -24,7 +24,7 @@ in the PricesRetrieverFactory (I could have put it in the config... :/)
 Databases and config files are in the resources directory. Feel free to
  change them
 
-I feel the test suit is a bit poor, and the error handling as well.
+I feel the test suite is a bit poor, and the error handling as well.
 But the "This needs to be completed as soon as possible" in the email
 has stressed me a lot, and I have also several tests to do.
 I am available for defending my choices whenever you want.
